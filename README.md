@@ -2,7 +2,7 @@
 
 This repository is for the final project of the COMP3005 course. 
 
-Video demonstration link: [Demo Video](https://drive.google.com/file/d/1CMbnppNsfiIJl7BgcrbHB2XRmZ-o9azg/view?usp=sharing)
+Video demonstration link: [Demo Video](https://drive.google.com/file/d/18-3ATBZVYYx6SHYwwUgcKTD2SGUxe26r/view?usp=sharing)
 
 PDF link: [Project Documentation](KarimRifai-101300239-FinalProject.pdf)
 
